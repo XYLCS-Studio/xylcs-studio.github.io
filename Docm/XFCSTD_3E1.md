@@ -131,22 +131,22 @@ XYLCS Studio's Freedom Creator Standard 3 Editver. 1 (XFCSTD 3E1)
 5.1  如要声明自己的原创作品为自由创作作品并且使用本标准，请在原创作品声明中添加：
 
 ```
-(作品名)(年份) by (原作人名) freedom-create in XFCSTD 3E0.
-例：A(2025) by Creator freedom-create in XFCSTD 3E0.
+(作品名)(年份) by (原作人名) freedom-create in XFCSTD 3E1.
+例：A(2025) by Creator freedom-create in XFCSTD 3E1.
 ```
 
 5.2  如要声明自己的二创作品为自由创作作品并且使用本标准，请在二创作品声明中添加：
 
 ```
-(作品名)(年份)[origin (原创作品名)((原作人))] by (二创人) freedom-create in XFCSTD 3E0.
-例：B(2025)[origin A(Creator)] by Mu freedom-create in XFCSTD 3E0.
+(作品名)(年份)[origin (原创作品名)((原作人))] by (二创人) freedom-create in XFCSTD 3E1.
+例：B(2025)[origin A(Creator)] by Mu freedom-create in XFCSTD 3E1.
 ```
 
 5.3  如要声明社区、个人或组织为自由创作社区并且使用本标准，请在社区声明中添加：
 
 ```
-(社区名、个人或组织名) freedom-creator in XFCSTD 3E0.
-例如：XYLCS freedom-creator in XFCSTD 3E0.
+(社区名、个人或组织名) freedom-creator in XFCSTD 3E1.
+例如：XYLCS freedom-creator in XFCSTD 3E1.
 ```
 
 5.4  一旦声明，则被声明对象是自由创作性质的，且必须遵循本标准。<br>
